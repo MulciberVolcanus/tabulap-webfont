@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'tabulapeutingerianaregular';
-    src: url('http://mulcibervolcanus.github.io/tabulap-webfont/tabulapeutingeriana-webfont.woff2') format('woff2'), url('http://mulcibervolcanus.github.io/tabulap-webfont/tabulapeutingeriana-webfont.woff') format('woff'), url('http://mulcibervolcanus.github.io/tabulap-webfont/tabulapeutingeriana-webfont.ttf') format('truetype');
+    src: url('http://cdn.jsdelivr.net/gh/mulcibervolcanus/tabulap-webfont/tabulapeutingeriana-webfont.woff2') format('woff2'), url('http://cdn.jsdelivr.net/gh/mulcibervolcanus/tabulap-webfont/tabulapeutingeriana-webfont.woff') format('woff'), url('http://cdn.jsdelivr.net/gh/mulcibervolcanus/tabulap-webfont/tabulapeutingeriana-webfont.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
